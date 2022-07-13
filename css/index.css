@@ -111,20 +111,19 @@ h3 {
 
 @media (max-width: 900px) {
     .left-cta {
-        margin: auto;
+        margin: 20px 0;
 
     }
 
     .agent-image {
-        margin: auto;
-    }
+        margin: 20px 0;
 
     .choose-us-image {
-        margin: auto;
+         margin: 20px 0;
     }
     
      .section-ms-img{
-        text-align: center;
+       margin: 20px 0;
     }
 }
 
