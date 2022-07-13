@@ -1,0 +1,167 @@
+body {
+    text-align: center;
+}
+
+.first-section {
+    background-size: cover;
+    height: 617px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    line-height: 1.5;
+}
+
+@media (max-width: 900px) {
+    #first-section {
+        text-align: center;
+        width: 500px;
+        height: 617px;
+        overflow: hidden;
+    }
+
+    h1 {
+        font-size: 30px;
+        line-height: 1;
+    }
+}
+
+
+h2 {
+    color: green;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    color: green;
+}
+
+.first-p {
+    color: white;
+}
+
+.first-button {
+    margin: 5px 10px;
+}
+
+#services {
+    padding: 7% 15%;
+    margin: 7% auto;
+}
+
+.service-box {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 2% 4%;
+}
+
+.service-item {
+    margin: 5px 0;
+}
+
+
+
+@media (min-width: 900px) {
+    .box-cta {
+        float: right;
+        width: 50%;
+        margin-left: 30px;
+    }
+
+    .left-cta {
+        width: 50%;
+        padding: 5px auto 300px;
+        text-align: right;
+    }
+
+    .choose-us-image {
+        float: left;
+        width: 50%;
+        text-align: right;
+        margin-right: 20px;
+    }
+
+    .choose-highlight {
+        text-align: left;
+    }
+
+    .agent-image {
+        float: right;
+        width: 50%;
+    }
+
+    .agent-talk {
+        width: 50%;
+        text-align: right;
+    }
+
+    #agent {
+        padding: 7% 15%;
+    }
+}
+
+@media (max-width: 900px) {
+    .left-cta {
+        margin: 20px auto 0;
+
+    }
+
+    .agent-image {
+        margin: 10px auto 10px;
+    }
+
+    .choose-us-image {
+        margin: 10px auto 10px;
+    }
+}
+
+#choose-us {
+    padding: 7% 15%;
+}
+
+#agent {
+    padding: 7% 15%;
+}
+
+#pricing {
+    padding: 7% 15%;
+}
+
+#test {
+    padding: 7% 15%;
+}
+
+#download {
+    padding: 7% 15%;
+    background-color: green;
+}
+
+.download-text {
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 200%;
+}
+
+.what {
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+
+}
+
+#footer {
+    padding: 3% 7%;
+}
+
+.atage {
+    color: black;
+}
