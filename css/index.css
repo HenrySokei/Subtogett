@@ -122,6 +122,10 @@ h3 {
     .choose-us-image {
         margin: 10px auto 10px;
     }
+    
+     .section-ms-img{
+        text-align: center;
+    }
 }
 
 #choose-us {
